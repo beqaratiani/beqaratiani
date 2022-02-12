@@ -21,14 +21,14 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank"
-        rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40"
-            height="40" /> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img
+            alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+            width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
+            src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a> <a
+        href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg"
-            alt="couchdb" width="40" height="40" /> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            alt="couchdb" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
+        rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a> <a href="https://www.electronjs.org" target="_blank"
         rel="noreferrer"> <img
