@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a software engineer</h3>
 
-- Working as a software engineer in Quantori
+- Working as a software engineer at Quantori
 - I’m looking to collaborate with other devs
 - Reach me via email: **beqa.ratiani5@gmail.com**
 
