@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a software engineer</h3>
 
-- Working as a software engineer at Quantori
+- Working as a software engineer at Business Development Solutions
 
 - I’m looking to collaborate with other devs
 
